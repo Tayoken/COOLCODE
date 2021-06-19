@@ -1,6 +1,6 @@
 # 常用工具
 
-## [博客-孤岛](https://www.teio.love)
+## <a herf = "https://www.teio.love" target="_blank">**博客-孤岛**</a>
 
 ## [**Data Structures, Algorithms, & Applications in C++, 2nd Edition** Sartaj Sahni](/dsaac/dsaacIndex.htm)
 
