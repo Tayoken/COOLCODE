@@ -1,4 +1,8 @@
-# 常用工具
+---
+layout: default
+title: COOLCODE
+description: This is a tools site.
+---
 
 ## [**Data Structures, Algorithms, & Applications in C++, 2nd Edition** Sartaj Sahni](/dsaac/dsaacIndex.htm)
 
@@ -9,6 +13,3 @@
 ## [**Algorithm Visualizer**](https://algorithm-visualizer.org/)
 
 ## ![logo](/image/logo3.png)[Codecogs](https://latex.codecogs.com/)
-
-
-
